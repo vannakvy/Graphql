@@ -1,0 +1,37 @@
+@font-face {
+  font-family: khmerOsSiemReap;
+  src: url('./fonts/KhmerOSsiemreap.ttf');
+}
+
+@font-face {
+  font-family: khmerOsMuolLight;
+  src: url('./fonts/KhmerOSmuollight.ttf');
+}
+
+@font-face {
+  font-family: tacteng;
+  src: url('./fonts/TACTENG.TTF');
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+input,
+li,
+th,
+td,
+button,
+div,
+label,
+title,
+a {
+  font-family: khmerOsSiemReap;
+}
+a {
+  font-size: 16px !important;
+}
